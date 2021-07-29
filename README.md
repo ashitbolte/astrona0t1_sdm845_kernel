@@ -9,7 +9,7 @@
  
 # Support 🙏
  
-<a href="https://t.me/EngageOs2"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="300px"></a>
+<a href="https://t.me/TeamOneUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="300px"></a>
 
-<a href="https://t.me/EngageOs"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="300px"></a>
+<a href="https://t.me/TeamOneProjectx"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="300px"></a>
 </html> 
