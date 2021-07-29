@@ -9,7 +9,7 @@
  
 # Download My Kernel 
  
-<a href="https://drive.google.com/drive/mobile/folders/1jBeoYjuYxFXOg9wvxKVXmLMJX7DwhGlw"><img src="https://telegra.ph/file/0d06c04f97d1de1f1e097.jpg" width="180px"></a>
+<a href="https://drive.google.com/drive/mobile/folders/1jBeoYjuYxFXOg9wvxKVXmLMJX7DwhGlw"><img src="https://telegra.ph/file/c699ab6eae8c2b45bd0f9.png" width="180px"></a>
  
 # Support 
  
