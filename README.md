@@ -7,7 +7,7 @@
 <hr>
 <h3><a style="text-decoration:none" href="https://drive.google.com/drive/folders/1jBeoYjuYxFXOg9wvxKVXmLMJX7DwhGlw">Downloads</a></h3>
 
-<h3><a style="text-decoration:none" href="https://t.me/TeamOneUpdates">Telegram Channel</a></h3>
-<h3><a style="text-decoration:none" href="https://t.me/TeamOneProjectx">Telegram Group</a></h3>
-</body>
+<a href="https://t.me/EngageOs2"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="300px"></a>
+
+<a href="https://t.me/EngageOs"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="300px"></a>
 </html> 
