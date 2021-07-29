@@ -6,11 +6,11 @@
  <img src="banner.jpg" alt="" width="920" height="560"> 
 <hr>
  
-# Download My Kernel 🥰
+# Download My Kernel 
  
 <a href="https://drive.google.com/drive/mobile/folders/1jBeoYjuYxFXOg9wvxKVXmLMJX7DwhGlw"><img src="https://telegra.ph/file/0d06c04f97d1de1f1e097.jpg" width="230px"></a>
  
-# Support 🙏
+# Support 
  
  </br>
  
