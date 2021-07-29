@@ -12,7 +12,9 @@
  
 # Support 🙏
  
-<a href="https://t.me/TeamOneUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="350px"></a>
-
+ </br>
+ 
+<a href="https://t.me/TeamOneUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="350px"></a> </br> </br>
+</br>
 <a href="https://t.me/TeamOneProjectx"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" width="350px"></a>
 </html> 
