@@ -6,7 +6,7 @@
  <img src="banner.jpg" alt="" width="920" height="560"> 
 <hr>
  
-<h3 href="https://drive.google.com/drive/folders/1jBeoYjuYxFXOg9wvxKVXmLMJX7DwhGlw"><img src="https://images.app.goo.gl/9WYC2nBpxioN7FuSA"></h3>
+<h3 href="https://drive.google.com/drive/folders/1jBeoYjuYxFXOg9wvxKVXmLMJX7DwhGlw"><img src="https://telegra.ph/file/0d06c04f97d1de1f1e097.jpg"></h3>
  
 # Support 🙏
  
