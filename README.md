@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
+ 
 <body>
 <h1>Astrona0t1 sdm845 kernel : <i>beryllium</i></h1>
 <hr ><br>
- <img src="banner.jpg" alt="" width="920" height="560"> 
+ <img src="banner.jpg" alt="" width="920"> 
 <hr>
  
 # Download My Kernel 
